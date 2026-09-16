@@ -11,7 +11,7 @@ normalization, enforcement of referential integrity, and implementation of trans
 rules that reflect real-world business operations. 
 The database serves as the central backbone that enables the platform to process orders 
 efficiently—from menu browsing and ordering to dispatch, delivery, and payment 
-settlement. 
+settlement.
  
  
  
