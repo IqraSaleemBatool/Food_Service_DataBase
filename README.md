@@ -1,5 +1,5 @@
 ## On-Demand Food Delivery Service Database 
-### Introduction: 
+### Introduction:
  
 The On-Demand Food Delivery Service Database project focuses on designing and 
 implementing a structured and reliable Relational Database Management System (RDBMS) 
